@@ -3,3 +3,9 @@ data/
 data.*
 db*.*
 *.pdf
+*.scss
+img/
+*.xml
+*.hwp
+*.json
+*.cvs
